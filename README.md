@@ -20,4 +20,5 @@ Além disso, utilizando-se de sua conta, o indivíduo poderá enviar pedidos de 
 - [x] Sprint 1sem: Fazer casos de uso
 
 ## Links: :computer:
-  https://rodolfofadino.com.br/chat-real-time-com-asp-net-signalr-10ae7a97a420    -->
+  https://rodolfofadino.com.br/chat-real-time-com-asp-net-signalr-10ae7a97a420
+  https://code.sololearn.com/W87BXhQSl8Sv/#html
