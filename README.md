@@ -1,7 +1,6 @@
 # Prática Profissional II
 
 ## Integrantes :mortar_board:
-# Markdown
 
 | Nomes                         | RA    |
 |-------------------------------|-------|
@@ -15,8 +14,6 @@ Os usuários terão suas próprias contas para permitir seu acesso aos serviços
 Além disso, utilizando-se de sua conta, o indivíduo poderá enviar pedidos de amizade a outras pessoas.
 
 ## TODO
-
-# Markdown
 
 - [x] Sprint 2sem: Fazer curso GIT
 - [x] Sprint 1sem: Decidir tema
