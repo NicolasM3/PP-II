@@ -13,7 +13,7 @@ Um serviço de chat que proporciona para os usuários (estudantes do Colégio T�
 Os usuários terão suas próprias contas para permitir seu acesso aos serviços e identificação, o login será feito a partir de seu RA e a senha será escolhida pelo usuário. A partir desse cadastro, as pontuações feitas pelo usuário em jogos disponíveis, serão armazenadas e exibidas ao mesmo. Todos esses dados serão armazenados em um banco de dados.
 Além disso, utilizando-se de sua conta, o indivíduo poderá enviar pedidos de amizade a outras pessoas.
 
-## TODO
+## TODO :pushpin:
 
 - [x] Sprint 2sem: Fazer curso GIT
 - [x] Sprint 1sem: Decidir tema
