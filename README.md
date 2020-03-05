@@ -17,6 +17,7 @@ Além disso, utilizando-se de sua conta, o indivíduo poderá enviar pedidos de 
 https://trello.com/b/5XBw386a/pp
 
 ## Links: :computer:
-  https://rodolfofadino.com.br/chat-real-time-com-asp-net-signalr-10ae7a97a420
-  https://medium.com/@kent_19698/build-a-real-time-chat-app-from-scratch-using-vue-js-and-c-in-5-minutes-599387bdccbb
-  https://code.sololearn.com/W87BXhQSl8Sv/#html
+- https://rodolfofadino.com.br/chat-real-time-com-asp-net-signalr-10ae7a97a420
+- https://medium.com/@kent_19698/build-a-real-time-chat-app-from-scratch-using-vue-js-and-c-in-5-minutes-599387bdccbb
+- https://code.sololearn.com/W87BXhQSl8Sv/#html
+- https://github.com/AKouki/SignalR-Chat
