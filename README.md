@@ -21,3 +21,4 @@ https://trello.com/b/5XBw386a/pp
 - ~~https://medium.com/@kent_19698/build-a-real-time-chat-app-from-scratch-using-vue-js-and-c-in-5-minutes-599387bdccbb~~
 - https://code.sololearn.com/W87BXhQSl8Sv/#html
 - https://github.com/AKouki/SignalR-Chat
+- https://www.youtube.com/watch?v=m4HdQCUSNEM&t=184s
